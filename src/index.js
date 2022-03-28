@@ -4,6 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { storyblokInit, apiPlugin } from "@storyblok/react";
+
+storyblokInit({
+  accessToken: "YOUR_PREVIEW_TOKEN",
+  use: [apiPlugin],
+  components: {}
+});
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

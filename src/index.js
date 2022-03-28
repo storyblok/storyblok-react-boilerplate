@@ -6,10 +6,21 @@ import reportWebVitals from './reportWebVitals';
 
 import { storyblokInit, apiPlugin } from "@storyblok/react";
 
+import Page from './components/Page'
+import Teaser from './components/Teaser'
+import Grid from './components/Grid'
+import Feature from './components/Feature'
+
+
 storyblokInit({
   accessToken: "YOUR_PREVIEW_TOKEN",
   use: [apiPlugin],
-  components: {}
+  components: {
+    page: Page,
+    teaser: Teaser,
+    grid: Grid,
+    feature: Feature
+  }
 });
 
 

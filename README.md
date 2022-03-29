@@ -13,7 +13,7 @@ You can read how to use the React SDK [here](https://github.com/storyblok/storyb
 ### 1. Clone the repo
 
 ```sh
-  $ git clone https://github.com/arorachakit/storyblok-react-boilerplate
+  $ git clone https://github.com/storyblok/storyblok-react-boilerplate
 ```
 
 ### 2. Install the dependencies

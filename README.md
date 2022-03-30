@@ -18,7 +18,7 @@ You can read how to use the React SDK [here](https://github.com/storyblok/storyb
 
 ### 2. Install the dependencies
 ```sh
-  $ yarn # or npm install
+  $ npm install # or yarn
 ```
 
 ### 3. Add the Access Token
@@ -31,12 +31,12 @@ Set the preview domain in <strong>Storyblok</strong> to `http://localhost:3000/`
 
 ```sh
   # to run in developer mode
-  $ yarn start # or npm run start
+  $ npm run start # or yarn start
  ```
 
  ```sh
   # to build the project
-  $ yarn build # or npm run build
+  $ npm run build # or yarn build
  ```
 
  ## Resources

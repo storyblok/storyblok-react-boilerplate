@@ -1,6 +1,6 @@
 # React Storyblok Boilerplate
 
-This repository is a React [Storyblok](https://www.storyblok.com/) starter template used in following [5 min tutorial]()
+This repository is a React [Storyblok](https://www.storyblok.com/) starter template used in following [5 min tutorial](https://www.storyblok.com/tp/add-a-headless-cms-to-react-in-5-minutes )
 
 ## Requirements
 
@@ -42,4 +42,4 @@ Set the preview domain in <strong>Storyblok</strong> to `http://localhost:3000/`
  ## Resources
 
 - [React Docs](https://reactjs.org/docs/getting-started.html)
-- [Storyblok Tutorial]()
+- [Storyblok Tutorial](https://www.storyblok.com/tp/add-a-headless-cms-to-react-in-5-minutes )

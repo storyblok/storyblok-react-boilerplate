@@ -1,6 +1,6 @@
 # React Storyblok Boilerplate
 
-This repository is a React [Storyblok](https://www.storyblok.com/) starter template used in following [5 min tutorial](https://www.storyblok.com/tp/add-a-headless-cms-to-react-in-5-minutes )
+This repository is a React [Storyblok](https://www.storyblok.com/) starter template used in following [5 min tutorial](https://www.storyblok.com/tp/headless-cms-react)
 
 ## Requirements
 

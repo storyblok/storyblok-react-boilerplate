@@ -19,6 +19,9 @@ storyblokInit({
     grid: Grid,
     feature: Feature,
   },
+  apiOptions: {
+    region: ''
+  }
 });
 
 const container = document.getElementById("app");

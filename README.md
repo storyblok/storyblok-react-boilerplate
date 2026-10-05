@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is no longer maintained.
+> For a current React + Storyblok starter, use [blueprint-core-react](https://github.com/storyblok/blueprint-core-react).
+
 # React Storyblok Boilerplate
 
 This repository is a React [Storyblok](https://www.storyblok.com/) starter template used in following [5 min tutorial](https://www.storyblok.com/tp/headless-cms-react)
